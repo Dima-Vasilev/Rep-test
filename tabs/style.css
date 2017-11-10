@@ -1,0 +1,39 @@
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.tabs {
+    width: 300px;
+    border: 1px solid #000000;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.btns__item {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.btns__link {
+    text-decoration: none;
+    font-size: 20px;
+    color: #f4b744;
+    text-transform: uppercase;
+}
+
+.btns__item.active {
+    background-color: #1161aa;
+    border: none;
+    color: #fffde5;
+    padding: 5px;
+}
+
+.text__item {
+    display: none;
+}
+
+.text__item.active {
+    display: block;
+}
