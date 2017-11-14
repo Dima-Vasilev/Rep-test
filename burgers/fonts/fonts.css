@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'Gagalin-Regular';
+    src: url('Gagalin-Regular.eot');
+    src: url('Gagalin-Regular.woff2') format('woff2'),
+    url('Gagalin-Regular.ttf') format('truetype'),
+    url('Gagalin-Regular.eot?#iefix') format('embedded-opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lifehack-Medium';
+    src: url('Lifehack-Medium.eot');
+    src: url('Lifehack-Medium.woff2') format('woff2'),
+    url('Lifehack-Medium.ttf') format('truetype'),
+    url('Lifehack-Medium.eot?#iefix') format('embedded-opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
